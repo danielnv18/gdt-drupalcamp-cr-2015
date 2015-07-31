@@ -1,0 +1,10 @@
+name = demo_module
+description = This is a demo module
+package = Custom
+version = VERSION
+core = 7.x
+
+
+
+
+
